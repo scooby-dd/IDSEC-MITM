@@ -5,7 +5,7 @@
 |SSHC|Yetki|Linkler|
 |:---:|:---:|:---:|
 |Ali|Server Admin|[![Ali](https://img.shields.io/badge/sshc-discord-black)](https://discord.com/users/846134648433410100)|
-|İsmali|Exploit Developer|[![İsmail](https://img.shields.io/badge/sshc-discord-red)](https://discord.com/users/561872492164153355)|
+|İsmail|Exploit Developer|[![İsmail](https://img.shields.io/badge/sshc-discord-red)](https://discord.com/users/561872492164153355)|
 
 <strong>YOU CAN DO MİTMF ATTACKS WİTH THİS TOOL</strong>
 
